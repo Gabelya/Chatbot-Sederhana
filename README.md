@@ -28,7 +28,9 @@ chatbot(): fungsi utama yang menjalankan loop interaktif.
 ======Cara Menjalankan========
 1. Pastikan Python 3 sudah terinstall.
 2. Clone repository:
-   git clone https://github.com/username/chatbot-python.gitcd chatbot-python
+git clone https://github.com/Gabelya/Chatbot-Sederhana.git
+cd Chatbot-Sederhana
+
 3. Jalankan program:
    python chatbot.py
 
